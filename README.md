@@ -19,11 +19,11 @@ Aiming participation in innovative and technological projects.
 ## Data Science Projects:
 
 ### Machine Learning:
--Regression
--Classification
--Clustering
--Association Rule Learning
--Reinforcement Learning
+*-Regression
+*-Classification
+*-Clustering
+*-Association Rule Learning
+*-Reinforcement Learning
 
 ### Natural Language Processing:
 -Bag of Words
