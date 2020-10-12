@@ -16,13 +16,11 @@ Aiming participation in innovative and technological projects.
 * [Medium]
 
 
-## Data Science Projects: 
+## Data Science Projects: https://github.com/audrey-siqueira/Data-Science-Projects
+**(Including all topics mentioned below)
 
 ### Machine Learning:
-#### Regression:
-** Salary Prediction:
-* Simple Linear Regression:https://bit.ly/3dm3Q1M
-
+* Regression
 * Classification
 * Clustering
 * Association Rule Learning
