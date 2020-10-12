@@ -1,5 +1,3 @@
-# portfolio
-
 <p align="center">
   <img src="banner1.jpg" >
 </p>
