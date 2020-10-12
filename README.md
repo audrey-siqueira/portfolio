@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.jpg" >
+  <img src="banner2.jpg" >
 </p>
 
 # Audrey Siqueira
@@ -11,7 +11,6 @@ Aiming participation in innovative and technological projects.
 **Background in:** Data Science, Machine Learning, Deep Learning, Python, R and SQL. 
  
  **Links:**
-* [Blog]
 * [LinkedIn](https://www.linkedin.com/in/audrey-siqueira-b5341ba3/)
 * [Medium]
 
