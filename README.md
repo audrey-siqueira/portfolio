@@ -19,28 +19,28 @@ Aiming participation in innovative and technological projects.
 ## Data Science Projects:
 
 ### Machine Learning:
-* -Regression
-* -Classification
-* -Clustering
-* -Association Rule Learning
-* -Reinforcement Learning
+* Regression
+* Classification
+* Clustering
+* Association Rule Learning
+* Reinforcement Learning
 
 ### Natural Language Processing:
--Bag of Words
+* Bag of Words
 
 ### Deep Learning:
--Artificial Neural Network
--Convolutional Neural Network
+* Artificial Neural Network
+* Convolutional Neural Network
 
 ### Dimensionality Reduction:
--Principal Component Analysis
--Linear Discriminant Analysis
--Kernel PCA
+* Principal Component Analysis
+* Linear Discriminant Analysis
+* Kernel PCA
 
 ### Model Evaluation:
--K-Fold Cross Validation
--Grid Search
+* K-Fold Cross Validation
+* Grid Search
 
 ### XGboost:
--XGboost Algorithm
+* XGboost Algorithm
 
