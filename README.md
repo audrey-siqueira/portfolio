@@ -18,7 +18,7 @@ Aiming participation in innovative and technological projects.
 
 ## Data Science Projects Repository: https://github.com/audrey-siqueira/Data-Science-Projects
 
-### Summary ###
+### INCLUDING ###
 
 ### Machine Learning:
 * Regression
