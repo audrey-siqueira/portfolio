@@ -17,8 +17,8 @@ Aiming participation in innovative and technological projects.
 
 
 ## Data Science Projects:
-Link: https://github.com/audrey-siqueira/Data-Science-Projects
-* **(Including all topics mentioned below)**
+* **Link: https://github.com/audrey-siqueira/Data-Science-Projects**
+**(Including all topics mentioned below)**
 
 ### Machine Learning:
 * Regression
