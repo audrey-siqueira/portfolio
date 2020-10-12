@@ -20,7 +20,7 @@ Aiming participation in innovative and technological projects.
 
 ### Machine Learning:
 #### Regression:
-##### Salary Prediction:
+** Salary Prediction:
 * Simple Linear Regression:https://bit.ly/3dm3Q1M
 
 * Classification
