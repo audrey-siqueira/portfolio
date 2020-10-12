@@ -16,7 +16,7 @@ Aiming participation in innovative and technological projects.
 
 
 ## Data Science Projects:
-**Link: https://github.com/audrey-siqueira/Data-Science-Projects**  
+**Link: https://github.com/audrey-siqueira/Data-Science-Projects/blob/master/README.md**  
   
  **(Including all topics mentioned below)**
 
