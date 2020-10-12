@@ -16,13 +16,31 @@ Aiming participation in innovative and technological projects.
 * [Medium]
 
 
-## Projects:
-### CLASSIFICATION:
-**Targeting ADS Solutions**
-* Logistic Regression: https://bit.ly/3ctWsAP
-* K-Nearest Neighbors: https://bit.ly/3mPewtY
-* Support Vector Machine: https://bit.ly/3i5Pnrj
-* Kernel SVM: https://bit.ly/33QiERK
-* Naive Bayes: https://bit.ly/33UeSak
-* Decision Tree Classification: https://bit.ly/2FWcxU4 
-* Random Forest Classification: https://bit.ly/2FYDu9F
+## Data Science Projects:
+
+### Machine Learning:
+**Regression**
+**Classification**
+**Clustering**
+**Association Rule Learning**
+**Reinforcement Learning**
+
+### Natural Language Processing:
+**Bag of Words
+
+### Deep Learning:
+**Artificial Neural Network**
+**Convolutional Neural Network**
+
+### Dimensionality Reduction:
+**Principal Component Analysis**
+**Linear Discriminant Analysis**
+**Kernel PCA**
+
+### Model Evaluation:
+**K-Fold Cross Validation**
+**Grid Search**
+
+### XGboost:
+**XGboost Algorithm**
+
